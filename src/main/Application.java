@@ -8,6 +8,10 @@ import dao.PartidaDAO;
 import model.Jogador;
 import model.Partida;
 
+/**
+ * @author douglas
+ *
+ */
 public class Application {
 	
 	private static Application app;
