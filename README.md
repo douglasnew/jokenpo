@@ -1,6 +1,6 @@
-# jokenpo
+# JOKENPO
 
-# Script criaço Bando de Dados
+# Script Bando de Dados
 
 CREATE TABLE IF NOT EXISTS Jogador (
     id INT AUTO_INCREMENT PRIMARY KEY,
