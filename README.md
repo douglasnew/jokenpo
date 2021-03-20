@@ -1,5 +1,10 @@
 # JOKENPO JAVA-CONSOLE
 
+Step-by-Step rodar app:
+
+Após a criação da Base de dados, basta dentro da aplicação,
+rodar o método main dentro da classe Application.java
+
 # Script Bando de Dados
 
 CREATE TABLE IF NOT EXISTS Jogador (
